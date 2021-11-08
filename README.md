@@ -1,4 +1,6 @@
-                                                        #**_ Election-Analysis by County and Final Results_**##
+                                                #**_ Election-Analysis by County and Final Results_**##
+
+
 ##**Overview of the Election Audit**
   
   This election audit included looking at the 3 candidates and the breakdown of the votes for each candidate.   An analysis of the 3 counties involved in the election were also examined. Variables were created and code was written to determine the county with the largest vote turnout as well as which candidate won.  In Python, code was written with first opening the csv file and then writing code to work through the file to calculate and breakdown percentages by county and candidate.  
