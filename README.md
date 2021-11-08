@@ -1,4 +1,4 @@
-                                                #**Election-Analysis by County and Final Results_**##
+                                                #**Election-Analysis by County and Final Results**#
 
 
 **##Overview of the Election Audit**
@@ -10,8 +10,12 @@
   
   <img width="1280" alt="Variables set" src="https://user-images.githubusercontent.com/85581208/140803981-6ba244e8-69fd-487c-a395-2e719a7d43aa.png">
   
+  
+  
   A preview of the code created to work through the rows to find the different counties and tally up their breakdown.
   <img width="1280" alt="Moving through the counties" src="https://user-images.githubusercontent.com/85581208/140805502-73fd8188-cc6a-413e-b459-f05d733b5e4f.png">  
+  
+  
   
   
   The results were compiled in the Election_Results.txt file.
