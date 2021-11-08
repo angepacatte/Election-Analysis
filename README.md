@@ -1,5 +1,6 @@
                                                         #**_ Election-Analysis by County and Final Results_**##
 ##**Overview of the Election Audit**
+  
   This election audit included looking at the 3 candidates and the breakdown of the votes for each candidate.   An analysis of the 3 counties involved in the election were also examined. Variables were created and code was written to determine the county with the largest vote turnout as well as which candidate won.  In Python, code was written with first opening the csv file and then writing code to work through the file to calculate and breakdown percentages by county and candidate.  
   
  This screenshot shows the different variables formulated.  Two examples are largest_county_count and largest_county_percent.
@@ -16,6 +17,7 @@
 
   
 ##**Election Audit Results**
+
 * Total votes = 369,711
 * Vote breakdown by county.  Percentage listed first with number of votes following.
   County Votes:
@@ -32,6 +34,7 @@
 
 
 ##**Election Audit Summary**
+  
   The purpose of creating this code was not only to use it for the current election analyzed but also to be able to apply it to any election.  The variables created would allow it to be applied to other csv files that contain election data.  The two places that would need to be modified would depend on where in the csv file the information is located.  See screenshot below where is it is locating where the county and candidate information is located.
 ![image](https://user-images.githubusercontent.com/85581208/140808731-44152d80-cf5c-41b8-b47e-f67ad7dd4b45.png)
  The rows are indexed according to where the candidate names and county names are in regards to the spreadsheet.  Those numbers would need to be modified so that the for loop would be looping in the right column.  
